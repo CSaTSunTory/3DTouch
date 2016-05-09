@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CF41A2103DDEC2A5E43A420DB5137BEF35766559",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CF41A2103DDEC2A5E43A420DB5137BEF35766559" : 0,
+    "00631236FBAF45865759E165C2E78B82252B0B93" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1E81BE55-C073-4067-B5F9-3C5794614EFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CF41A2103DDEC2A5E43A420DB5137BEF35766559" : "FireWorks\/",
+    "00631236FBAF45865759E165C2E78B82252B0B93" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "3DTouch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "3DTouch\/3DTouch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CSaTSunTory\/FireWorks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00631236FBAF45865759E165C2E78B82252B0B93"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CSaTSunTory\/FireWorks",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CF41A2103DDEC2A5E43A420DB5137BEF35766559"
+    }
+  ]
+}
